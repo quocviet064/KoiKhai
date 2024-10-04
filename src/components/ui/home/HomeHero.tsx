@@ -12,13 +12,13 @@ function HomeHero() {
       <div className="absolute inset-0 h-[90vh] bg-black opacity-40"></div>
 
       <div className="relative flex h-screen select-none flex-col items-center justify-center text-center text-white">
-        <h1 className="mb-4 text-3xl font-bold">Feng Shui & Koi Fish</h1>
+        <h1 className="mb-4 text-3xl font-bold">Phong Thủy & Cá Koi</h1>
         <h2 className="mb-2 text-6xl font-bold uppercase">
-          Vitality & Prosperity
+          Sức Sống & Thịnh Vượng
         </h2>
         <p className="mb-8 text-lg">
-          Discover the secrets of raising Koi fish and creating the ideal feng
-          shui space for your home.
+          Khám phá bí mật nuôi dưỡng cá Koi và tạo không gian phong thủy lý
+          tưởng cho ngôi nhà của bạn.
         </p>
       </div>
     </div>
